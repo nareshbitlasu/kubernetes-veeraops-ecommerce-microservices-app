@@ -7,7 +7,7 @@ env:
   AWS_REGION: us-east-1
   TF_VERSION: "1.12.2"
   TF_WORKING_DIR: EKS-Terraform
-  BUCKET_NAME : devncloudtechdevopsss
+  BUCKET_NAME : devncloud764756784657465784657989
 
 jobs:
 
